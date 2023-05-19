@@ -1,0 +1,4 @@
+data:
+  test: shop-default
+  url: http://ORDER-SERVICE/order-service/orders/user/%s
+  SECRETE_KEY : aaaaaaaaaaaaaa55
